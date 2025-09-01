@@ -33,3 +33,10 @@ SWITCH(
     AQI <= 300, "#ff5b0f",  -- Red-Orange
     "#d95243"               -- Dark Red
 )
+```
+
+---
+
+## 📸 仪表盘截图 | Dashboard Screenshot
+
+![Dashboard Screenshot](Images/Image1.png)
