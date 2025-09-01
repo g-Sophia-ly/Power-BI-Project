@@ -1,5 +1,5 @@
 # 🌦️ Power BI Weather & Air Quality Dashboard  
-** Tools: Power BI, DAX, API/CSV Data**
+Tools: Power BI, DAX, API/CSV Data
 
 ---
 
