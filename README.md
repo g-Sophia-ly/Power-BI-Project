@@ -40,3 +40,5 @@ SWITCH(
 ## 📸 仪表盘截图 | Dashboard Screenshot
 
 ![Dashboard Screenshot](Images/Image1.png)
+![Dashboard Screenshot](Images/Image2.png)
+![Dashboard Screenshot](Images/Image3.png)
